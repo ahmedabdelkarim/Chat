@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>596816826496-lu2qpjloa4q66t2guhseurmdp77j4ma6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.596816826496-lu2qpjloa4q66t2guhseurmdp77j4ma6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDjIpMSVLZApcSa1Plv1S7m6qVSBccRaWg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>596816826496</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ahmedabdelkarim.apps.Chat</string>
+	<key>PROJECT_ID</key>
+	<string>ahmedabdelkarim-chat</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ahmedabdelkarim-chat.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:596816826496:ios:eb1e103510e32ee2e29665</string>
+</dict>
+</plist>
